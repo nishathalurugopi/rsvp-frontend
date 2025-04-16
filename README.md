@@ -12,19 +12,19 @@ This is the frontend interface for the RSVP Manager module, designed to match th
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 ### 1. Clone the repository
 
 git clone https://github.com/nishathalurugopi/rsvp-frontend.git
 cd rsvp-frontend
 
-2. Install dependencies
+### 2. Install dependencies
 
 npm install
 
 
-3. Start the app
+### 3. Start the app
 npm run dev
 Visit the app at: http://localhost:5173
 Make sure the backend API is running on http://localhost:5000
