@@ -17,6 +17,7 @@ This is the frontend interface for the RSVP Manager module, designed to match th
 ### 1. Clone the repository
 
 git clone https://github.com/nishathalurugopi/rsvp-frontend.git
+
 cd rsvp-frontend
 
 ### 2. Install dependencies
@@ -26,11 +27,13 @@ npm install
 
 ### 3. Start the app
 npm run dev
+
 Visit the app at: http://localhost:5173
+
 Make sure the backend API is running on http://localhost:5000
 
-Features:
-Submit RSVPs (Yes, No, Maybe)
-View list of confirmed attendees
-See a live summary of total, confirmed, declined, and maybe responses
-Responsive layout designed to integrate into Gametime Hero
+### Features:
+- Submit RSVPs (Yes, No, Maybe)
+- View list of confirmed attendees
+- See a live summary of total, confirmed, declined, and maybe responses
+- Responsive layout designed to integrate into Gametime Hero
